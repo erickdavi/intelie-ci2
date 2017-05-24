@@ -1,8 +1,8 @@
 # jenkins
-# Author: Erick Davi Morgade Pessanha
-# Contact: erickdavi@gmail.com
+### Author: Erick Davi Morgade Pessanha
+### Contact: erickdavi@gmail.com
 
-# intelie-ci 2
+## intelie-ci 2
 
 ## English documentation
 
@@ -38,7 +38,7 @@
 > Note: To manage the instance, access the **/root/intelie-ci2/** directory and execute the command **vagrant ssh**.
 
 ### Project filesystem:
-ntelie-ci/<br>
+.intelie-ci/<br>
 ├── cookbooks<br>
 │   └── jenkins<br>
 │       ├── Berksfile<br>
